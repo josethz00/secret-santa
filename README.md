@@ -1,3 +1,3 @@
-# Email Auth T3
+# Secret Santa T3
 
-T3 app with email authentication setup in NextAuth.
+Secret Santa App created with T3 Stack, using NextAuth Email-provider
